@@ -1216,7 +1216,7 @@ ApplicationWindow {
                                             width: originBox.width
                                             text: root.prettyLocation(modelData)
                                             font.family: root.bodyFont
-                                            palette.text: root.ink
+                                            palette.text: "black"
                                         }
                                         background: Rectangle {
                                             radius: 14
@@ -1260,7 +1260,7 @@ ApplicationWindow {
                                             width: destinationBox.width
                                             text: root.prettyLocation(modelData)
                                             font.family: root.bodyFont
-                                            palette.text: root.ink
+                                            palette.text: "black"
                                         }
                                         background: Rectangle {
                                             radius: 14
@@ -1310,9 +1310,7 @@ ApplicationWindow {
                                 }
 
                                 Column {
-                                    width: root.cardWidth(formFields.width,
-                                                          root.midLayout ? 2 : 1,
-                                                          formFields.spacing)
+                                    width: root.cardWidth(formFields.width, root.midLayout ? 2 : 1, formFields.spacing)
                                     spacing: 6
 
                                     Text {
@@ -1354,9 +1352,7 @@ ApplicationWindow {
                                 spacing: 12
 
                                 Column {
-                                    width: root.cardWidth(parent.width,
-                                                          root.wideLayout ? 3 : (root.midLayout ? 2 : 1),
-                                                          12)
+                                    width: root.cardWidth(parent.width, root.wideLayout ? 3 : (root.midLayout ? 2 : 1), 12)
                                     spacing: 6
 
                                     Text {
@@ -1409,7 +1405,7 @@ ApplicationWindow {
                                         font.family: root.bodyFont
                                         font.pixelSize: 15
                                         palette.buttonText: root.ink
-                                        palette.text: root.ink
+                                        palette.text: "black"
                                         leftPadding: 12
                                         rightPadding: 32
                                         background: Rectangle {
@@ -1418,6 +1414,7 @@ ApplicationWindow {
                                             border.color: root.border
                                             border.width: 1
                                         }
+
                                     }
                                 }
 
