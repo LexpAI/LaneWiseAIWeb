@@ -1,301 +1,301 @@
 ﻿origin,destination,distance_mi,weight_kg,pallet_count,service_level,cost_usd
 Seattle WA,Portland OR,175,3200,5,0,210.1
-Seattle WA,Portland OR,175,5500,8,1,276
-Seattle WA,Portland OR,175,8100,12,1,376.8
-Seattle WA,Portland OR,175,4200,6,0,222.6
-Seattle WA,Portland OR,175,9200,14,2,398.6
-Seattle WA,Portland OR,175,6800,10,1,329.4
-Seattle WA,Portland OR,175,4500,7,0,230.5
-Seattle WA,Portland OR,175,11000,16,2,462
-Seattle WA,Portland OR,175,5900,9,1,288.7
-Seattle WA,Portland OR,175,7800,11,1,363.9
 Seattle WA,San Francisco CA,808,3200,5,0,406.66
-Seattle WA,San Francisco CA,808,5500,8,1,491.56
-Seattle WA,San Francisco CA,808,8100,12,1,559.36
-Seattle WA,San Francisco CA,808,4200,6,0,426.16
-Seattle WA,San Francisco CA,808,9200,14,2,600.16
-Seattle WA,San Francisco CA,808,6800,10,1,535.96
-Seattle WA,San Francisco CA,808,4500,7,0,423.06
-Seattle WA,San Francisco CA,808,11000,16,2,652.56
-Seattle WA,San Francisco CA,808,5900,9,1,514.26
-Seattle WA,San Francisco CA,808,7800,11,1,564.46
 Seattle WA,Los Angeles CA,1135,3200,5,0,509.3
-Seattle WA,Los Angeles CA,1135,5500,8,1,577.2
-Seattle WA,Los Angeles CA,1135,8100,12,1,663
-Seattle WA,Los Angeles CA,1135,4200,6,0,534.8
-Seattle WA,Los Angeles CA,1135,9200,14,2,732.8
-Seattle WA,Los Angeles CA,1135,6800,10,1,632.6
-Seattle WA,Los Angeles CA,1135,4500,7,0,558.7
-Seattle WA,Los Angeles CA,1135,11000,16,2,788.2
-Seattle WA,Los Angeles CA,1135,5900,9,1,620.9
-Seattle WA,Los Angeles CA,1135,7800,11,1,667.1
 Portland OR,Sacramento CA,460,3200,5,0,298.3
-Portland OR,Sacramento CA,460,5500,8,1,364.2
-Portland OR,Sacramento CA,460,8100,12,1,443
-Portland OR,Sacramento CA,460,4200,6,0,324.8
-Portland OR,Sacramento CA,460,9200,14,2,520.8
-Portland OR,Sacramento CA,460,6800,10,1,421.6
-Portland OR,Sacramento CA,460,4500,7,0,343.7
-Portland OR,Sacramento CA,460,11000,16,2,556.2
-Portland OR,Sacramento CA,460,5900,9,1,388.9
-Portland OR,Sacramento CA,460,7800,11,1,435.1
 San Francisco CA,Los Angeles CA,381,3200,5,0,276.02
-San Francisco CA,Los Angeles CA,381,5500,8,1,347.92
-San Francisco CA,Los Angeles CA,381,8100,12,1,417.72
-San Francisco CA,Los Angeles CA,381,4200,6,0,302.52
-San Francisco CA,Los Angeles CA,381,9200,14,2,495.52
-San Francisco CA,Los Angeles CA,381,6800,10,1,397.32
-San Francisco CA,Los Angeles CA,381,4500,7,0,293.42
-San Francisco CA,Los Angeles CA,381,11000,16,2,533.92
-San Francisco CA,Los Angeles CA,381,5900,9,1,373.62
-San Francisco CA,Los Angeles CA,381,7800,11,1,398.82
 San Francisco CA,Denver CO,1250,3200,5,0,533.1
-San Francisco CA,Denver CO,1250,5500,8,1,624
-San Francisco CA,Denver CO,1250,8100,12,1,712.8
-San Francisco CA,Denver CO,1250,4200,6,0,556.6
-San Francisco CA,Denver CO,1250,9200,14,2,771.6
-San Francisco CA,Denver CO,1250,6800,10,1,676.4
-San Francisco CA,Denver CO,1250,4500,7,0,560.5
-San Francisco CA,Denver CO,1250,11000,16,2,808
-San Francisco CA,Denver CO,1250,5900,9,1,657.7
-San Francisco CA,Denver CO,1250,7800,11,1,685.9
 Los Angeles CA,Phoenix AZ,373,3200,5,0,270.46
-Los Angeles CA,Phoenix AZ,373,5500,8,1,357.36
-Los Angeles CA,Phoenix AZ,373,8100,12,1,425.16
-Los Angeles CA,Phoenix AZ,373,4200,6,0,289.96
-Los Angeles CA,Phoenix AZ,373,9200,14,2,496.96
-Los Angeles CA,Phoenix AZ,373,6800,10,1,377.76
-Los Angeles CA,Phoenix AZ,373,4500,7,0,302.86
-Los Angeles CA,Phoenix AZ,373,11000,16,2,519.36
-Los Angeles CA,Phoenix AZ,373,5900,9,1,366.06
-Los Angeles CA,Phoenix AZ,373,7800,11,1,419.26
 Los Angeles CA,Dallas TX,1430,3200,5,0,590.7
-Los Angeles CA,Dallas TX,1430,5500,8,1,670.6
-Los Angeles CA,Dallas TX,1430,8100,12,1,762.4
-Los Angeles CA,Dallas TX,1430,4200,6,0,638.2
-Los Angeles CA,Dallas TX,1430,9200,14,2,801.2
-Los Angeles CA,Dallas TX,1430,6800,10,1,719
-Los Angeles CA,Dallas TX,1430,4500,7,0,629.1
-Los Angeles CA,Dallas TX,1430,11000,16,2,861.6
-Los Angeles CA,Dallas TX,1430,5900,9,1,692.3
-Los Angeles CA,Dallas TX,1430,7800,11,1,756.5
 Phoenix AZ,Denver CO,586,3200,5,0,328.62
-Phoenix AZ,Denver CO,586,5500,8,1,411.52
-Phoenix AZ,Denver CO,586,8100,12,1,489.32
-Phoenix AZ,Denver CO,586,4200,6,0,346.12
-Phoenix AZ,Denver CO,586,9200,14,2,545.12
-Phoenix AZ,Denver CO,586,6800,10,1,444.92
-Phoenix AZ,Denver CO,586,4500,7,0,367.02
-Phoenix AZ,Denver CO,586,11000,16,2,610.52
-Phoenix AZ,Denver CO,586,5900,9,1,427.22
-Phoenix AZ,Denver CO,586,7800,11,1,468.42
 Denver CO,Chicago IL,1002,3200,5,0,469.74
-Denver CO,Chicago IL,1002,5500,8,1,547.64
-Denver CO,Chicago IL,1002,8100,12,1,635.44
-Denver CO,Chicago IL,1002,4200,6,0,501.24
-Denver CO,Chicago IL,1002,9200,14,2,681.24
-Denver CO,Chicago IL,1002,6800,10,1,591.04
-Denver CO,Chicago IL,1002,4500,7,0,488.14
-Denver CO,Chicago IL,1002,11000,16,2,744.64
-Denver CO,Chicago IL,1002,5900,9,1,578.34
-Denver CO,Chicago IL,1002,7800,11,1,600.54
 Dallas TX,Houston TX,225,3200,5,0,202.1
-Dallas TX,Houston TX,225,5500,8,1,287
-Dallas TX,Houston TX,225,8100,12,1,361.8
-Dallas TX,Houston TX,225,4200,6,0,248.6
-Dallas TX,Houston TX,225,9200,14,2,434.6
-Dallas TX,Houston TX,225,6800,10,1,351.4
-Dallas TX,Houston TX,225,4500,7,0,251.5
-Dallas TX,Houston TX,225,11000,16,2,475
-Dallas TX,Houston TX,225,5900,9,1,303.7
-Dallas TX,Houston TX,225,7800,11,1,363.9
 Dallas TX,Chicago IL,968,3200,5,0,451.86
-Dallas TX,Chicago IL,968,5500,8,1,521.76
-Dallas TX,Chicago IL,968,8100,12,1,600.56
-Dallas TX,Chicago IL,968,4200,6,0,493.36
-Dallas TX,Chicago IL,968,9200,14,2,676.36
-Dallas TX,Chicago IL,968,6800,10,1,571.16
-Dallas TX,Chicago IL,968,4500,7,0,499.26
-Dallas TX,Chicago IL,968,11000,16,2,717.76
-Dallas TX,Chicago IL,968,5900,9,1,563.46
-Dallas TX,Chicago IL,968,7800,11,1,613.66
 Chicago IL,Detroit MI,283,3200,5,0,235.66
-Chicago IL,Detroit MI,283,5500,8,1,322.56
-Chicago IL,Detroit MI,283,8100,12,1,396.36
-Chicago IL,Detroit MI,283,4200,6,0,267.16
-Chicago IL,Detroit MI,283,9200,14,2,462.16
-Chicago IL,Detroit MI,283,6800,10,1,348.96
-Chicago IL,Detroit MI,283,4500,7,0,286.06
-Chicago IL,Detroit MI,283,11000,16,2,483.56
-Chicago IL,Detroit MI,283,5900,9,1,328.26
-Chicago IL,Detroit MI,283,7800,11,1,382.46
 Chicago IL,Minneapolis MN,408,3200,5,0,277.66
-Chicago IL,Minneapolis MN,408,5500,8,1,358.56
-Chicago IL,Minneapolis MN,408,8100,12,1,446.36
-Chicago IL,Minneapolis MN,408,4200,6,0,303.16
-Chicago IL,Minneapolis MN,408,9200,14,2,496.16
-Chicago IL,Minneapolis MN,408,6800,10,1,409.96
-Chicago IL,Minneapolis MN,408,4500,7,0,302.06
-Chicago IL,Minneapolis MN,408,11000,16,2,525.56
-Chicago IL,Minneapolis MN,408,5900,9,1,367.26
-Chicago IL,Minneapolis MN,408,7800,11,1,420.46
 Chicago IL,Atlanta GA,715,3200,5,0,380.9
-Chicago IL,Atlanta GA,715,5500,8,1,471.8
-Chicago IL,Atlanta GA,715,8100,12,1,541.6
-Chicago IL,Atlanta GA,715,4200,6,0,388.4
-Chicago IL,Atlanta GA,715,9200,14,2,570.4
-Chicago IL,Atlanta GA,715,6800,10,1,480.2
-Chicago IL,Atlanta GA,715,4500,7,0,407.3
-Chicago IL,Atlanta GA,715,11000,16,2,622.8
-Chicago IL,Atlanta GA,715,5900,9,1,462.5
-Chicago IL,Atlanta GA,715,7800,11,1,511.7
 Atlanta GA,Miami FL,662,3200,5,0,355.94
-Atlanta GA,Miami FL,662,5500,8,1,422.84
-Atlanta GA,Miami FL,662,8100,12,1,532.64
-Atlanta GA,Miami FL,662,4200,6,0,366.44
-Atlanta GA,Miami FL,662,9200,14,2,562.44
-Atlanta GA,Miami FL,662,6800,10,1,474.24
-Atlanta GA,Miami FL,662,4500,7,0,378.34
-Atlanta GA,Miami FL,662,11000,16,2,614.84
-Atlanta GA,Miami FL,662,5900,9,1,453.54
-Atlanta GA,Miami FL,662,7800,11,1,483.74
 Atlanta GA,Dallas TX,781,3200,5,0,405.02
-Atlanta GA,Dallas TX,781,5500,8,1,490.92
-Atlanta GA,Dallas TX,781,8100,12,1,539.72
-Atlanta GA,Dallas TX,781,4200,6,0,403.52
-Atlanta GA,Dallas TX,781,9200,14,2,616.52
-Atlanta GA,Dallas TX,781,6800,10,1,500.32
-Atlanta GA,Dallas TX,781,4500,7,0,416.42
-Atlanta GA,Dallas TX,781,11000,16,2,672.92
-Atlanta GA,Dallas TX,781,5900,9,1,476.62
-Atlanta GA,Dallas TX,781,7800,11,1,552.82
 Miami FL,Jacksonville FL,350,3200,5,0,252.1
-Miami FL,Jacksonville FL,350,5500,8,1,339
-Miami FL,Jacksonville FL,350,8100,12,1,405.8
-Miami FL,Jacksonville FL,350,4200,6,0,292.6
-Miami FL,Jacksonville FL,350,9200,14,2,460.6
-Miami FL,Jacksonville FL,350,6800,10,1,393.4
-Miami FL,Jacksonville FL,350,4500,7,0,274.5
-Miami FL,Jacksonville FL,350,11000,16,2,505
-Miami FL,Jacksonville FL,350,5900,9,1,348.7
-Miami FL,Jacksonville FL,350,7800,11,1,387.9
 Houston TX,New Orleans LA,350,3200,5,0,239.1
-Houston TX,New Orleans LA,350,5500,8,1,330
-Houston TX,New Orleans LA,350,8100,12,1,400.8
-Houston TX,New Orleans LA,350,4200,6,0,270.6
-Houston TX,New Orleans LA,350,9200,14,2,460.6
-Houston TX,New Orleans LA,350,6800,10,1,379.4
-Houston TX,New Orleans LA,350,4500,7,0,281.5
-Houston TX,New Orleans LA,350,11000,16,2,510
-Houston TX,New Orleans LA,350,5900,9,1,339.7
-Houston TX,New Orleans LA,350,7800,11,1,397.9
 New Orleans LA,Atlanta GA,470,3200,5,0,288.5
-New Orleans LA,Atlanta GA,470,5500,8,1,393.4
-New Orleans LA,Atlanta GA,470,8100,12,1,470.2
-New Orleans LA,Atlanta GA,470,4200,6,0,328
-New Orleans LA,Atlanta GA,470,9200,14,2,526
-New Orleans LA,Atlanta GA,470,6800,10,1,403.8
-New Orleans LA,Atlanta GA,470,4500,7,0,341.9
-New Orleans LA,Atlanta GA,470,11000,16,2,558.4
-New Orleans LA,Atlanta GA,470,5900,9,1,398.1
-New Orleans LA,Atlanta GA,470,7800,11,1,444.3
 Boston MA,New York NY,215,3200,5,0,210.9
-Boston MA,New York NY,215,5500,8,1,279.8
-Boston MA,New York NY,215,8100,12,1,381.6
-Boston MA,New York NY,215,4200,6,0,249.4
-Boston MA,New York NY,215,9200,14,2,443.4
-Boston MA,New York NY,215,6800,10,1,334.2
-Boston MA,New York NY,215,4500,7,0,234.3
-Boston MA,New York NY,215,11000,16,2,476.8
-Boston MA,New York NY,215,5900,9,1,308.5
-Boston MA,New York NY,215,7800,11,1,372.7
 New York NY,Philadelphia PA,95,3200,5,0,174.5
-New York NY,Philadelphia PA,95,5500,8,1,240.4
-New York NY,Philadelphia PA,95,8100,12,1,330.2
-New York NY,Philadelphia PA,95,4200,6,0,178
-New York NY,Philadelphia PA,95,9200,14,2,403
-New York NY,Philadelphia PA,95,6800,10,1,277.8
-New York NY,Philadelphia PA,95,4500,7,0,196.9
-New York NY,Philadelphia PA,95,11000,16,2,436.4
-New York NY,Philadelphia PA,95,5900,9,1,274.1
-New York NY,Philadelphia PA,95,7800,11,1,330.3
 Philadelphia PA,Washington DC,140,3200,5,0,178.9
-Philadelphia PA,Washington DC,140,5500,8,1,270.8
-Philadelphia PA,Washington DC,140,8100,12,1,353.6
-Philadelphia PA,Washington DC,140,4200,6,0,223.4
-Philadelphia PA,Washington DC,140,9200,14,2,414.4
-Philadelphia PA,Washington DC,140,6800,10,1,316.2
-Philadelphia PA,Washington DC,140,4500,7,0,222.3
-Philadelphia PA,Washington DC,140,11000,16,2,469.8
-Philadelphia PA,Washington DC,140,5900,9,1,268.5
-Philadelphia PA,Washington DC,140,7800,11,1,327.7
 Washington DC,Atlanta GA,640,3200,5,0,362.9
-Washington DC,Atlanta GA,640,5500,8,1,432.8
-Washington DC,Atlanta GA,640,8100,12,1,522.6
-Washington DC,Atlanta GA,640,4200,6,0,361.4
-Washington DC,Atlanta GA,640,9200,14,2,571.4
-Washington DC,Atlanta GA,640,6800,10,1,486.2
-Washington DC,Atlanta GA,640,4500,7,0,390.3
-Washington DC,Atlanta GA,640,11000,16,2,604.8
-Washington DC,Atlanta GA,640,5900,9,1,437.5
-Washington DC,Atlanta GA,640,7800,11,1,492.7
 Detroit MI,Cleveland OH,170,3200,5,0,195.5
-Detroit MI,Cleveland OH,170,5500,8,1,269.4
-Detroit MI,Cleveland OH,170,8100,12,1,340.2
-Detroit MI,Cleveland OH,170,4200,6,0,218
-Detroit MI,Cleveland OH,170,9200,14,2,398
-Detroit MI,Cleveland OH,170,6800,10,1,323.8
-Detroit MI,Cleveland OH,170,4500,7,0,228.9
-Detroit MI,Cleveland OH,170,11000,16,2,479.4
-Detroit MI,Cleveland OH,170,5900,9,1,293.1
-Detroit MI,Cleveland OH,170,7800,11,1,352.3
 Minneapolis MN,Denver CO,915,3200,5,0,431.9
-Minneapolis MN,Denver CO,915,5500,8,1,534.8
-Minneapolis MN,Denver CO,915,8100,12,1,603.6
-Minneapolis MN,Denver CO,915,4200,6,0,447.4
-Minneapolis MN,Denver CO,915,9200,14,2,654.4
-Minneapolis MN,Denver CO,915,6800,10,1,562.2
-Minneapolis MN,Denver CO,915,4500,7,0,463.3
-Minneapolis MN,Denver CO,915,11000,16,2,697.8
-Minneapolis MN,Denver CO,915,5900,9,1,516.5
-Minneapolis MN,Denver CO,915,7800,11,1,574.7
 Salt Lake City UT,Denver CO,390,3200,5,0,277.9
-Salt Lake City UT,Denver CO,390,5500,8,1,336.8
-Salt Lake City UT,Denver CO,390,8100,12,1,414.6
-Salt Lake City UT,Denver CO,390,4200,6,0,295.4
-Salt Lake City UT,Denver CO,390,9200,14,2,485.4
-Salt Lake City UT,Denver CO,390,6800,10,1,379.2
-Salt Lake City UT,Denver CO,390,4500,7,0,299.3
-Salt Lake City UT,Denver CO,390,11000,16,2,540.8
-Salt Lake City UT,Denver CO,390,5900,9,1,356.5
-Salt Lake City UT,Denver CO,390,7800,11,1,427.7
 Las Vegas NV,Phoenix AZ,300,3200,5,0,228.1
-Las Vegas NV,Phoenix AZ,300,5500,8,1,314
-Las Vegas NV,Phoenix AZ,300,8100,12,1,402.8
-Las Vegas NV,Phoenix AZ,300,4200,6,0,277.6
-Las Vegas NV,Phoenix AZ,300,9200,14,2,467.6
-Las Vegas NV,Phoenix AZ,300,6800,10,1,367.4
-Las Vegas NV,Phoenix AZ,300,4500,7,0,282.5
-Las Vegas NV,Phoenix AZ,300,11000,16,2,486
-Las Vegas NV,Phoenix AZ,300,5900,9,1,352.7
-Las Vegas NV,Phoenix AZ,300,7800,11,1,382.9
 Seattle WA,Denver CO,1310,3200,5,0,558.3
-Seattle WA,Denver CO,1310,5500,8,1,661.2
-Seattle WA,Denver CO,1310,8100,12,1,711
-Seattle WA,Denver CO,1310,4200,6,0,579.8
-Seattle WA,Denver CO,1310,9200,14,2,774.8
-Seattle WA,Denver CO,1310,6800,10,1,693.6
-Seattle WA,Denver CO,1310,4500,7,0,608.7
-Seattle WA,Denver CO,1310,11000,16,2,818.2
-Seattle WA,Denver CO,1310,5900,9,1,670.9
-Seattle WA,Denver CO,1310,7800,11,1,724.1
 San Diego CA,Phoenix AZ,355,3200,5,0,239.7
+Seattle WA,Portland OR,175,5500,8,1,276
+Seattle WA,San Francisco CA,808,5500,8,1,491.56
+Seattle WA,Los Angeles CA,1135,5500,8,1,577.2
+Portland OR,Sacramento CA,460,5500,8,1,364.2
+San Francisco CA,Los Angeles CA,381,5500,8,1,347.92
+San Francisco CA,Denver CO,1250,5500,8,1,624
+Los Angeles CA,Phoenix AZ,373,5500,8,1,357.36
+Los Angeles CA,Dallas TX,1430,5500,8,1,670.6
+Phoenix AZ,Denver CO,586,5500,8,1,411.52
+Denver CO,Chicago IL,1002,5500,8,1,547.64
+Dallas TX,Houston TX,225,5500,8,1,287
+Dallas TX,Chicago IL,968,5500,8,1,521.76
+Chicago IL,Detroit MI,283,5500,8,1,322.56
+Chicago IL,Minneapolis MN,408,5500,8,1,358.56
+Chicago IL,Atlanta GA,715,5500,8,1,471.8
+Atlanta GA,Miami FL,662,5500,8,1,422.84
+Atlanta GA,Dallas TX,781,5500,8,1,490.92
+Miami FL,Jacksonville FL,350,5500,8,1,339
+Houston TX,New Orleans LA,350,5500,8,1,330
+New Orleans LA,Atlanta GA,470,5500,8,1,393.4
+Boston MA,New York NY,215,5500,8,1,279.8
+New York NY,Philadelphia PA,95,5500,8,1,240.4
+Philadelphia PA,Washington DC,140,5500,8,1,270.8
+Washington DC,Atlanta GA,640,5500,8,1,432.8
+Detroit MI,Cleveland OH,170,5500,8,1,269.4
+Minneapolis MN,Denver CO,915,5500,8,1,534.8
+Salt Lake City UT,Denver CO,390,5500,8,1,336.8
+Las Vegas NV,Phoenix AZ,300,5500,8,1,314
+Seattle WA,Denver CO,1310,5500,8,1,661.2
 San Diego CA,Phoenix AZ,355,5500,8,1,327.6
+Seattle WA,Portland OR,175,8100,12,1,376.8
+Seattle WA,San Francisco CA,808,8100,12,1,559.36
+Seattle WA,Los Angeles CA,1135,8100,12,1,663
+Portland OR,Sacramento CA,460,8100,12,1,443
+San Francisco CA,Los Angeles CA,381,8100,12,1,417.72
+San Francisco CA,Denver CO,1250,8100,12,1,712.8
+Los Angeles CA,Phoenix AZ,373,8100,12,1,425.16
+Los Angeles CA,Dallas TX,1430,8100,12,1,762.4
+Phoenix AZ,Denver CO,586,8100,12,1,489.32
+Denver CO,Chicago IL,1002,8100,12,1,635.44
+Dallas TX,Houston TX,225,8100,12,1,361.8
+Dallas TX,Chicago IL,968,8100,12,1,600.56
+Chicago IL,Detroit MI,283,8100,12,1,396.36
+Chicago IL,Minneapolis MN,408,8100,12,1,446.36
+Chicago IL,Atlanta GA,715,8100,12,1,541.6
+Atlanta GA,Miami FL,662,8100,12,1,532.64
+Atlanta GA,Dallas TX,781,8100,12,1,539.72
+Miami FL,Jacksonville FL,350,8100,12,1,405.8
+Houston TX,New Orleans LA,350,8100,12,1,400.8
+New Orleans LA,Atlanta GA,470,8100,12,1,470.2
+Boston MA,New York NY,215,8100,12,1,381.6
+New York NY,Philadelphia PA,95,8100,12,1,330.2
+Philadelphia PA,Washington DC,140,8100,12,1,353.6
+Washington DC,Atlanta GA,640,8100,12,1,522.6
+Detroit MI,Cleveland OH,170,8100,12,1,340.2
+Minneapolis MN,Denver CO,915,8100,12,1,603.6
+Salt Lake City UT,Denver CO,390,8100,12,1,414.6
+Las Vegas NV,Phoenix AZ,300,8100,12,1,402.8
+Seattle WA,Denver CO,1310,8100,12,1,711
 San Diego CA,Phoenix AZ,355,8100,12,1,429.4
+Seattle WA,Portland OR,175,4200,6,0,222.6
+Seattle WA,San Francisco CA,808,4200,6,0,426.16
+Seattle WA,Los Angeles CA,1135,4200,6,0,534.8
+Portland OR,Sacramento CA,460,4200,6,0,324.8
+San Francisco CA,Los Angeles CA,381,4200,6,0,302.52
+San Francisco CA,Denver CO,1250,4200,6,0,556.6
+Los Angeles CA,Phoenix AZ,373,4200,6,0,289.96
+Los Angeles CA,Dallas TX,1430,4200,6,0,638.2
+Phoenix AZ,Denver CO,586,4200,6,0,346.12
+Denver CO,Chicago IL,1002,4200,6,0,501.24
+Dallas TX,Houston TX,225,4200,6,0,248.6
+Dallas TX,Chicago IL,968,4200,6,0,493.36
+Chicago IL,Detroit MI,283,4200,6,0,267.16
+Chicago IL,Minneapolis MN,408,4200,6,0,303.16
+Chicago IL,Atlanta GA,715,4200,6,0,388.4
+Atlanta GA,Miami FL,662,4200,6,0,366.44
+Atlanta GA,Dallas TX,781,4200,6,0,403.52
+Miami FL,Jacksonville FL,350,4200,6,0,292.6
+Houston TX,New Orleans LA,350,4200,6,0,270.6
+New Orleans LA,Atlanta GA,470,4200,6,0,328
+Boston MA,New York NY,215,4200,6,0,249.4
+New York NY,Philadelphia PA,95,4200,6,0,178
+Philadelphia PA,Washington DC,140,4200,6,0,223.4
+Washington DC,Atlanta GA,640,4200,6,0,361.4
+Detroit MI,Cleveland OH,170,4200,6,0,218
+Minneapolis MN,Denver CO,915,4200,6,0,447.4
+Salt Lake City UT,Denver CO,390,4200,6,0,295.4
+Las Vegas NV,Phoenix AZ,300,4200,6,0,277.6
+Seattle WA,Denver CO,1310,4200,6,0,579.8
 San Diego CA,Phoenix AZ,355,4200,6,0,269.2
+Seattle WA,Portland OR,175,9200,14,2,398.6
+Seattle WA,San Francisco CA,808,9200,14,2,600.16
+Seattle WA,Los Angeles CA,1135,9200,14,2,732.8
+Portland OR,Sacramento CA,460,9200,14,2,520.8
+San Francisco CA,Los Angeles CA,381,9200,14,2,495.52
+San Francisco CA,Denver CO,1250,9200,14,2,771.6
+Los Angeles CA,Phoenix AZ,373,9200,14,2,496.96
+Los Angeles CA,Dallas TX,1430,9200,14,2,801.2
+Phoenix AZ,Denver CO,586,9200,14,2,545.12
+Denver CO,Chicago IL,1002,9200,14,2,681.24
+Dallas TX,Houston TX,225,9200,14,2,434.6
+Dallas TX,Chicago IL,968,9200,14,2,676.36
+Chicago IL,Detroit MI,283,9200,14,2,462.16
+Chicago IL,Minneapolis MN,408,9200,14,2,496.16
+Chicago IL,Atlanta GA,715,9200,14,2,570.4
+Atlanta GA,Miami FL,662,9200,14,2,562.44
+Atlanta GA,Dallas TX,781,9200,14,2,616.52
+Miami FL,Jacksonville FL,350,9200,14,2,460.6
+Houston TX,New Orleans LA,350,9200,14,2,460.6
+New Orleans LA,Atlanta GA,470,9200,14,2,526
+Boston MA,New York NY,215,9200,14,2,443.4
+New York NY,Philadelphia PA,95,9200,14,2,403
+Philadelphia PA,Washington DC,140,9200,14,2,414.4
+Washington DC,Atlanta GA,640,9200,14,2,571.4
+Detroit MI,Cleveland OH,170,9200,14,2,398
+Minneapolis MN,Denver CO,915,9200,14,2,654.4
+Salt Lake City UT,Denver CO,390,9200,14,2,485.4
+Las Vegas NV,Phoenix AZ,300,9200,14,2,467.6
+Seattle WA,Denver CO,1310,9200,14,2,774.8
 San Diego CA,Phoenix AZ,355,9200,14,2,483.2
+Seattle WA,Portland OR,175,6800,10,1,329.4
+Seattle WA,San Francisco CA,808,6800,10,1,535.96
+Seattle WA,Los Angeles CA,1135,6800,10,1,632.6
+Portland OR,Sacramento CA,460,6800,10,1,421.6
+San Francisco CA,Los Angeles CA,381,6800,10,1,397.32
+San Francisco CA,Denver CO,1250,6800,10,1,676.4
+Los Angeles CA,Phoenix AZ,373,6800,10,1,377.76
+Los Angeles CA,Dallas TX,1430,6800,10,1,719
+Phoenix AZ,Denver CO,586,6800,10,1,444.92
+Denver CO,Chicago IL,1002,6800,10,1,591.04
+Dallas TX,Houston TX,225,6800,10,1,351.4
+Dallas TX,Chicago IL,968,6800,10,1,571.16
+Chicago IL,Detroit MI,283,6800,10,1,348.96
+Chicago IL,Minneapolis MN,408,6800,10,1,409.96
+Chicago IL,Atlanta GA,715,6800,10,1,480.2
+Atlanta GA,Miami FL,662,6800,10,1,474.24
+Atlanta GA,Dallas TX,781,6800,10,1,500.32
+Miami FL,Jacksonville FL,350,6800,10,1,393.4
+Houston TX,New Orleans LA,350,6800,10,1,379.4
+New Orleans LA,Atlanta GA,470,6800,10,1,403.8
+Boston MA,New York NY,215,6800,10,1,334.2
+New York NY,Philadelphia PA,95,6800,10,1,277.8
+Philadelphia PA,Washington DC,140,6800,10,1,316.2
+Washington DC,Atlanta GA,640,6800,10,1,486.2
+Detroit MI,Cleveland OH,170,6800,10,1,323.8
+Minneapolis MN,Denver CO,915,6800,10,1,562.2
+Salt Lake City UT,Denver CO,390,6800,10,1,379.2
+Las Vegas NV,Phoenix AZ,300,6800,10,1,367.4
+Seattle WA,Denver CO,1310,6800,10,1,693.6
 San Diego CA,Phoenix AZ,355,6800,10,1,390
+Seattle WA,Portland OR,175,4500,7,0,230.5
+Seattle WA,San Francisco CA,808,4500,7,0,423.06
+Seattle WA,Los Angeles CA,1135,4500,7,0,558.7
+Portland OR,Sacramento CA,460,4500,7,0,343.7
+San Francisco CA,Los Angeles CA,381,4500,7,0,293.42
+San Francisco CA,Denver CO,1250,4500,7,0,560.5
+Los Angeles CA,Phoenix AZ,373,4500,7,0,302.86
+Los Angeles CA,Dallas TX,1430,4500,7,0,629.1
+Phoenix AZ,Denver CO,586,4500,7,0,367.02
+Denver CO,Chicago IL,1002,4500,7,0,488.14
+Dallas TX,Houston TX,225,4500,7,0,251.5
+Dallas TX,Chicago IL,968,4500,7,0,499.26
+Chicago IL,Detroit MI,283,4500,7,0,286.06
+Chicago IL,Minneapolis MN,408,4500,7,0,302.06
+Chicago IL,Atlanta GA,715,4500,7,0,407.3
+Atlanta GA,Miami FL,662,4500,7,0,378.34
+Atlanta GA,Dallas TX,781,4500,7,0,416.42
+Miami FL,Jacksonville FL,350,4500,7,0,274.5
+Houston TX,New Orleans LA,350,4500,7,0,281.5
+New Orleans LA,Atlanta GA,470,4500,7,0,341.9
+Boston MA,New York NY,215,4500,7,0,234.3
+New York NY,Philadelphia PA,95,4500,7,0,196.9
+Philadelphia PA,Washington DC,140,4500,7,0,222.3
+Washington DC,Atlanta GA,640,4500,7,0,390.3
+Detroit MI,Cleveland OH,170,4500,7,0,228.9
+Minneapolis MN,Denver CO,915,4500,7,0,463.3
+Salt Lake City UT,Denver CO,390,4500,7,0,299.3
+Las Vegas NV,Phoenix AZ,300,4500,7,0,282.5
+Seattle WA,Denver CO,1310,4500,7,0,608.7
 San Diego CA,Phoenix AZ,355,4500,7,0,289.1
+Seattle WA,Portland OR,175,11000,16,2,462
+Seattle WA,San Francisco CA,808,11000,16,2,652.56
+Seattle WA,Los Angeles CA,1135,11000,16,2,788.2
+Portland OR,Sacramento CA,460,11000,16,2,556.2
+San Francisco CA,Los Angeles CA,381,11000,16,2,533.92
+San Francisco CA,Denver CO,1250,11000,16,2,808
+Los Angeles CA,Phoenix AZ,373,11000,16,2,519.36
+Los Angeles CA,Dallas TX,1430,11000,16,2,861.6
+Phoenix AZ,Denver CO,586,11000,16,2,610.52
+Denver CO,Chicago IL,1002,11000,16,2,744.64
+Dallas TX,Houston TX,225,11000,16,2,475
+Dallas TX,Chicago IL,968,11000,16,2,717.76
+Chicago IL,Detroit MI,283,11000,16,2,483.56
+Chicago IL,Minneapolis MN,408,11000,16,2,525.56
+Chicago IL,Atlanta GA,715,11000,16,2,622.8
+Atlanta GA,Miami FL,662,11000,16,2,614.84
+Atlanta GA,Dallas TX,781,11000,16,2,672.92
+Miami FL,Jacksonville FL,350,11000,16,2,505
+Houston TX,New Orleans LA,350,11000,16,2,510
+New Orleans LA,Atlanta GA,470,11000,16,2,558.4
+Boston MA,New York NY,215,11000,16,2,476.8
+New York NY,Philadelphia PA,95,11000,16,2,436.4
+Philadelphia PA,Washington DC,140,11000,16,2,469.8
+Washington DC,Atlanta GA,640,11000,16,2,604.8
+Detroit MI,Cleveland OH,170,11000,16,2,479.4
+Minneapolis MN,Denver CO,915,11000,16,2,697.8
+Salt Lake City UT,Denver CO,390,11000,16,2,540.8
+Las Vegas NV,Phoenix AZ,300,11000,16,2,486
+Seattle WA,Denver CO,1310,11000,16,2,818.2
 San Diego CA,Phoenix AZ,355,11000,16,2,524.6
+Seattle WA,Portland OR,175,5900,9,1,288.7
+Seattle WA,San Francisco CA,808,5900,9,1,514.26
+Seattle WA,Los Angeles CA,1135,5900,9,1,620.9
+Portland OR,Sacramento CA,460,5900,9,1,388.9
+San Francisco CA,Los Angeles CA,381,5900,9,1,373.62
+San Francisco CA,Denver CO,1250,5900,9,1,657.7
+Los Angeles CA,Phoenix AZ,373,5900,9,1,366.06
+Los Angeles CA,Dallas TX,1430,5900,9,1,692.3
+Phoenix AZ,Denver CO,586,5900,9,1,427.22
+Denver CO,Chicago IL,1002,5900,9,1,578.34
+Dallas TX,Houston TX,225,5900,9,1,303.7
+Dallas TX,Chicago IL,968,5900,9,1,563.46
+Chicago IL,Detroit MI,283,5900,9,1,328.26
+Chicago IL,Minneapolis MN,408,5900,9,1,367.26
+Chicago IL,Atlanta GA,715,5900,9,1,462.5
+Atlanta GA,Miami FL,662,5900,9,1,453.54
+Atlanta GA,Dallas TX,781,5900,9,1,476.62
+Miami FL,Jacksonville FL,350,5900,9,1,348.7
+Houston TX,New Orleans LA,350,5900,9,1,339.7
+New Orleans LA,Atlanta GA,470,5900,9,1,398.1
+Boston MA,New York NY,215,5900,9,1,308.5
+New York NY,Philadelphia PA,95,5900,9,1,274.1
+Philadelphia PA,Washington DC,140,5900,9,1,268.5
+Washington DC,Atlanta GA,640,5900,9,1,437.5
+Detroit MI,Cleveland OH,170,5900,9,1,293.1
+Minneapolis MN,Denver CO,915,5900,9,1,516.5
+Salt Lake City UT,Denver CO,390,5900,9,1,356.5
+Las Vegas NV,Phoenix AZ,300,5900,9,1,352.7
+Seattle WA,Denver CO,1310,5900,9,1,670.9
 San Diego CA,Phoenix AZ,355,5900,9,1,356.3
+Seattle WA,Portland OR,175,7800,11,1,363.9
+Seattle WA,San Francisco CA,808,7800,11,1,564.46
+Seattle WA,Los Angeles CA,1135,7800,11,1,667.1
+Portland OR,Sacramento CA,460,7800,11,1,435.1
+San Francisco CA,Los Angeles CA,381,7800,11,1,398.82
+San Francisco CA,Denver CO,1250,7800,11,1,685.9
+Los Angeles CA,Phoenix AZ,373,7800,11,1,419.26
+Los Angeles CA,Dallas TX,1430,7800,11,1,756.5
+Phoenix AZ,Denver CO,586,7800,11,1,468.42
+Denver CO,Chicago IL,1002,7800,11,1,600.54
+Dallas TX,Houston TX,225,7800,11,1,363.9
+Dallas TX,Chicago IL,968,7800,11,1,613.66
+Chicago IL,Detroit MI,283,7800,11,1,382.46
+Chicago IL,Minneapolis MN,408,7800,11,1,420.46
+Chicago IL,Atlanta GA,715,7800,11,1,511.7
+Atlanta GA,Miami FL,662,7800,11,1,483.74
+Atlanta GA,Dallas TX,781,7800,11,1,552.82
+Miami FL,Jacksonville FL,350,7800,11,1,387.9
+Houston TX,New Orleans LA,350,7800,11,1,397.9
+New Orleans LA,Atlanta GA,470,7800,11,1,444.3
+Boston MA,New York NY,215,7800,11,1,372.7
+New York NY,Philadelphia PA,95,7800,11,1,330.3
+Philadelphia PA,Washington DC,140,7800,11,1,327.7
+Washington DC,Atlanta GA,640,7800,11,1,492.7
+Detroit MI,Cleveland OH,170,7800,11,1,352.3
+Minneapolis MN,Denver CO,915,7800,11,1,574.7
+Salt Lake City UT,Denver CO,390,7800,11,1,427.7
+Las Vegas NV,Phoenix AZ,300,7800,11,1,382.9
+Seattle WA,Denver CO,1310,7800,11,1,724.1
 San Diego CA,Phoenix AZ,355,7800,11,1,412.5

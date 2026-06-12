@@ -795,7 +795,7 @@ double LaneWiseController::predictCost(const std::vector<double> &params,
         + params[1] * (miles / kDistanceScale)
         + params[2] * (kilograms / kWeightScale)
         + params[3] * static_cast<double>(pallets)
-        + params[4] * static_cast<double>(serviceLevel);
+        + params[4] * static_cast<double>(serviceLevel) * 11.0;
 }
 
 QString LaneWiseController::serviceLabel(int serviceLevel) const

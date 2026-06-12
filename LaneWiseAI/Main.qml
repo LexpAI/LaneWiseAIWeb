@@ -1400,7 +1400,7 @@ ApplicationWindow {
                                     ComboBox {
                                         id: serviceBox
                                         width: parent.width
-                                        model: ["Economy", "Standard", "Express"]
+                                        model: ["Express", "Standard", "Economy"]
                                         currentIndex: 1
                                         font.family: root.bodyFont
                                         font.pixelSize: 15
